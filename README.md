@@ -1,1 +1,1 @@
-# Laravel-Api
+# Laravel-Api Auth (Sanctum Package)
